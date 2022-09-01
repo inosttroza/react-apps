@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/react-task/static/js/main.b2bcecff.js",
+    "index.html": "/react-task/index.html",
+    "main.b2bcecff.js.map": "/react-task/static/js/main.b2bcecff.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.b2bcecff.js"
+  ]
+}
