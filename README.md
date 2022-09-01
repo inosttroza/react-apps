@@ -1,2 +1,2 @@
 # react-apps
-Ejemplos desarrollados con react
+Ejemplos varios desarrollados con react
