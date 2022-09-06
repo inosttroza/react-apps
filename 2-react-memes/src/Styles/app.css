@@ -1,0 +1,36 @@
+.App {
+  text-align: center;
+}
+.linea1 {
+  position: absolute;
+    width: 100%;
+    left: 0px;
+    margin-top: 30px;
+    font-size: 38px;
+    color: white;
+    text-shadow: 2px 0 0 #000, -2px 0 0 #000, 0 2px 0 #000, 0 -2px 0 rgb(255 250 250), 1px 1px #000, -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000;
+}
+.linea2  {
+  position: absolute;
+    width: 100%;
+    left: 0px;
+    margin-top: 415px;
+    font-size: 38px;
+    color: white;
+    text-shadow: 2px 0 0 #000, -2px 0 0 #000, 0 2px 0 #000, 0 -2px 0 rgb(255 250 250), 1px 1px #000, -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000;
+}
+/* .meme img {
+  width: 100%;
+} */
+body, .meme {
+  background: rgb(29, 27, 27);
+}
+button{
+  background-color: goldenrod;
+  border-radius: 20px;
+  width: 180px;
+}
+select,input{
+  border-radius: 20px;
+  width: 180px;
+}
