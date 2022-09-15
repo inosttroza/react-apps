@@ -2,7 +2,7 @@
 
 Tablas en react (Crud, Filter, Sorting, Searching, Pagination, export, etc).<br>
 
-Archivo de pruebas datos.js<br>
+Api de pruebas https://jsonplaceholder.typicode.com/users<br>
 
  ### npm i 
  @mui/material <br>
