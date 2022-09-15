@@ -1,4 +1,4 @@
-# react-mui-data.grid
+# react-mui-data-grid
 
 Tablas en react (Crud, Filter, Sorting, Searching, Pagination, export, etc).<br>
 
