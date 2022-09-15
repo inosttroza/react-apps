@@ -5,8 +5,8 @@ Tablas en react (Crud, Filter, Sorting, Searching, Pagination, export, etc).<br>
 Archivo de pruebas datos.js<br>
 
  ### npm i 
- @mui/icons-material <br>
  @mui/material <br>
+ @mui/icons-material <br> 
  @mui/x-data-grid <br>
 
 ## Documentación
