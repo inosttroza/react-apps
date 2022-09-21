@@ -2,8 +2,6 @@
 
 Navbar responsivo con rutas privadas y publicas con un simple login.<br>
 
-Api de pruebas https://jsonplaceholder.typicode.com/users<br>
-
  ### npm i 
  react-bootstrap <br>
 
