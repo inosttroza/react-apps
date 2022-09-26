@@ -7,8 +7,8 @@ Incluye data de todos los paises del mundo.<br>
 
 
 ## Documentación
-[npm @nivo/geo](https://www.npmjs.com/package/@nivo/geo)
-[documentation](https://nivo.rocks/choropleth/)
+[npm @nivo/geo](https://www.npmjs.com/package/@nivo/geo)<br>
+[documentation](https://nivo.rocks/choropleth/)<br>
 
 ## Instalación
 Para ejecutar este proyecto, ejecute localmente usando npm:
