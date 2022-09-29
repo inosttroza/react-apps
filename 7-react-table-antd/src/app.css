@@ -1,9 +1,0 @@
-.App {
-  /* text-align: center; */
-  padding: 5%;
-}
-.flex{
-  /* para separar iconos columna actions */
-  display: flex;
-  justify-content: space-around;
-}
