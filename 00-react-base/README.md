@@ -17,4 +17,5 @@ promesas
 fetch
 async-await
 condiciones ternarias
+javascript string methods
 ```
